@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Task</string>
+    <string name="tab_text_1">Countries</string>
+    <string name="tab_text_2">Jeff Kelly Repo</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="no_favourites_items">No Favourites Items</string>
+</resources>
